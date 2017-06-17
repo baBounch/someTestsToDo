@@ -1,4 +1,5 @@
-$(document).ready(function(){
-  var gg = 200;
-  $("#containing-element").css("background-color","blue");
-})
+//$(document).ready(function(){
+  //var gg = 200;
+  //$("#containing-element").css("background-color","blue");
+//})
+console.log("pizza");
